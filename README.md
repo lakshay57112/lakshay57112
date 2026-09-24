@@ -1,18 +1,60 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>🔭 I’m currently building **AI/ML applications, AI Agents, and intelligent Python solutions**<br><br>🌍 I'm an **International Exchange Student** passionate about solving real-world problems through Artificial Intelligence, Machine Learning, and Cloud technologies.<br><br>🎯 My goal is to build scalable AI systems that create meaningful impact while continuously improving my software engineering and problem-solving skills.<br><br>🤝 I’m open to collaborating on **Open Source, AI/ML, Python, and AWS Cloud projects**<br><br>🌱 Currently learning **Machine Learning, Deep Learning, Large Language Models (LLMs), AWS Cloud, Data Structures & Algorithms, and Japanese (JLPT N5)**<br><br>💬 Ask me about **Python, AWS, Git, GitHub, Machine Learning, Artificial Intelligence, and AI/ML**<br><br>🚀 **Featured Projects**<br>- 💪 **FitBuddy** – AI-powered fitness companion for workout planning, calorie tracking, BMI analysis, and progress monitoring.<br>- 💰 **Student Budget Planner** – Smart budget management application that helps students track expenses and improve financial planning.<br>- 🐱 **Cat Game** – Java-based interactive game demonstrating Object-Oriented Programming principles and game development concepts.<br><br>🏆 **What you'll find here**<br>- AI & Machine Learning Projects<br>- Python Applications<br>- Cloud & AWS Experiments<br>- Open Source Contributions<br>- DSA Practice & Learning Journey<br><br>📫 **Let's Connect:** I'm always excited to connect with developers, researchers, and recruiters who are passionate about AI and emerging technologies.<br><br>⚡ **Fun Fact:** I believe consistency beats motivation—whether it's building AI models, solving coding challenges, or pushing limits in the gym.
+# Hi, I'm Lakshay 👋
 
+AI/ML Engineer in the making · BCA @ Chitkara University · Exchange student @ Telkom University, Indonesia
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshay57112) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I build RAG systems, AI agents, and end-to-end ML apps.  
+🎯 Open to **AI/ML engineering internships (2026)**
 
 ---
-[![](https://komarev.com/ghpvc/?username=lakshay57112&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💼 Experience
+
+- **AI/ML Intern**, InAmigos Foundation
+- **ML Intern**, SaiKet Systems: customer churn prediction on the IBM Telco dataset (Random Forest, Logistic Regression)
+
+### 🏅 Certification
+
+- AWS Certified AI Practitioner
+
+---
+
+### 🚀 Featured Projects
+
+- **[PathFinder AI](https://github.com/lakshay57112/PATHFINDERAI)**: Career discovery and roadmap platform  
+  `FastAPI` `Next.js` `LangGraph` `Qdrant` `Neo4j` `Gemini`
+- **DSA Notes Assistant**: RAG chatbot over DSA notes  
+  `ChromaDB` `Sentence-Transformers` `LLaMA 3.3 70B (Groq)` `Streamlit`
+- **Credit Card Fraud Detection**: 94.3% recall · 97.1% F1 · 99.9% ROC-AUC  
+  `Random Forest` `SMOTE` `GridSearchCV` `Streamlit`
+- **AI Resume Analyser**: LLM-powered resume feedback  
+  `Flask` `Groq API` `TiDB Cloud`
+- **Student Budget Planner**: Expense tracking app built in Scrum sprints  
+  `Flask` `SQLAlchemy` `Chart.js`
+- **FitBuddy**: Social fitness platform (SDG 3)  
+  `HTML` `CSS` `JavaScript`
+
+### 🔨 Currently Building
+
+**AI-Powered Adaptive Training System**: A gym coach using computer vision, time-series, RAG, and agentic logic
+
+### 🌱 Currently Learning
+
+LangChain · LangGraph · IBM RAG & Agentic AI Certificate · Deep Learning · DSA · Japanese
+
+---
+
+### 🛠 Tech Stack
+
+**Languages:** Python · Java · JavaScript · SQL · C++  
+**AI/ML:** PyTorch · TensorFlow · scikit-learn · Pandas · NumPy  
+**LLM & RAG:** LangChain · LangGraph · ChromaDB · Qdrant · Groq · Gemini  
+**Backend & Cloud:** FastAPI · Flask · Streamlit · AWS (SageMaker, Bedrock) · Azure  
+**Tools:** Git · GitHub Actions · MySQL · Neo4j · Jira · Power BI
+
+---
+
+### 📫 Connect
+
+[LinkedIn](https://linkedin.com/in/lakshay57112) · [Portfolio](https://lakshay57112.github.io)
+
+*Consistency beats motivation, in code and in the gym.*
