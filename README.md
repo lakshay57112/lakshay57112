@@ -15,8 +15,6 @@ Final-year BCA student at Chitkara University, currently on exchange at Telkom U
   `Random Forest` `SMOTE` `GridSearchCV` `Streamlit`
 - AI Resume Analyzer: compares a resume against a job description and scores ATS fit  
   `Flask` `Groq` `TiDB`
-- AI Research Agent: multi-agent research assistant  
-  `CrewAI` `Mistral` `Streamlit`
 - [SmokeTrace](https://github.com/lakshay57112/smoketrace): traces smoke to its source using wind back-trajectories and NASA FIRMS satellite fires, and forecasts 48h PM2.5 danger windows  
   `Python` `Gemini`
 
