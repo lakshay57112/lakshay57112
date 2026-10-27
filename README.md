@@ -31,7 +31,7 @@ An adaptive gym-training app using computer vision and RAG.
 - CBSE, St. Anjani's Public School, Lucknow: Class 12 (2023) 70%, Class 10 (2021) 71%
 
 ## Certificates
-IBM RAG and Agentic AI Professional Certificate, AWS Cloud Practitioner Essentials (Coursera), DeepLearning.AI Supervised ML and Advanced Learning Algorithms, AI Python for Beginners. Currently doing the DeepLearning.AI Machine Learning course.
+IBM RAG and Agentic AI Professional Certificate, DeepLearning.AI Machine Learning, AWS Cloud Practitioner Essentials (Coursera), DeepLearning.AI Supervised ML and Advanced Learning Algorithms, AI Python for Beginners.
 
 ## Stack
 Python, Java, JavaScript, SQL, scikit-learn, pandas, NumPy, LangChain, LangGraph, MCP, ChromaDB, Qdrant, FAISS, FastAPI, Flask, Streamlit, Next.js, Docker, Git, GitHub Actions, MySQL, Neo4j
